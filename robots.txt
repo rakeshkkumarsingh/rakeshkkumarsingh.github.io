@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rakeshkkumarsingh.github.io/sitemap.xml
